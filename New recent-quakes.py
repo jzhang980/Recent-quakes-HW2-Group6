@@ -1,4 +1,3 @@
-
 # -*- coding: utf-8 -*-
 # <nbformat>3.0</nbformat>
 
@@ -360,32 +359,6 @@ plot_quakes(data_cleaned[data_cleaned[REGION] == 'The Geysers, California'])
 
 
 # <codecell>
-
-
-
-
-
- 
- 
-
-
- 
-   
-
-   
-
-
-
-
-
-
-
-
-
-
-          
-
-
 
 
 
