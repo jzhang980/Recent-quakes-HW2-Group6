@@ -1,9 +1,10 @@
 ##Recent-quakes-HW2-Group6##
 ========================
-###Jie Zhang: data curation  
-###Kuanwei Tseng: data visualization  
-###Alice Man: analysis  
-###Jinsoo Lee: analysis
+###Group Member:
+#####Jie Zhang: data curation  
+#####Kuanwei Tseng: data visualization  
+#####Alice Man: analysis  
+#####Jinsoo Lee: analysis
 
 
 Due Date
